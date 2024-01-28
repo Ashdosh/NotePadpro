@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "454851183576",
+    "project_id": "notepadpro-f67d9",
+    "storage_bucket": "notepadpro-f67d9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:454851183576:android:fcc4d82558154f401668ad",
+        "android_client_info": {
+          "package_name": "com.example.notepadpro"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCrDluDNHQJARa6-E3pBMSSSShZqzM-atY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
